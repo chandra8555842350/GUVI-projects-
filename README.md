@@ -1,5 +1,5 @@
 Energy Usage Predictor (Streamlit App)
-This Streamlit application predicts energy usage based on user inputs and time-based features using a trained neural network model. It is part of the GUVI mini-project series.
+This Streamlit application predicts energy usage based on user inputs and time-based features using a trained neural network model. 
 
 Features
 Date and Time input
